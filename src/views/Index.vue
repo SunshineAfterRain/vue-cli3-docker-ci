@@ -54,7 +54,7 @@ export default {
     }
 
     round_item.prototype.move = function () {
-      this.y -= 0.15
+      this.y -= 0.3
       if (this.y <= -20) {
         this.y = HEIGHT + 10
       }
