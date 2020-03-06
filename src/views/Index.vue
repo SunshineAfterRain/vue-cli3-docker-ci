@@ -5,7 +5,7 @@
       src="../assets/img/logo.png"
     >
     <canvas id="canvas"></canvas>
-    <cc-button>66666 </cc-button>
+    <cc-button>121212121</cc-button>
   </div>
 </template>
 
