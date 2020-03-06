@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["news"],{"7c64":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("new")])},l=[],s={},u=s,r=t("2877"),w=Object(r["a"])(u,c,l,!1,null,null,null);e["default"]=w.exports}}]);
-//# sourceMappingURL=news.021ae344.js.map
