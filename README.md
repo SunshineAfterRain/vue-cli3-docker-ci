@@ -5,3 +5,12 @@
 node webhooks.js
 ```
 
+## 新增一个组件
+```
+npm run new:comp
+```
+
+## 新增一个页面
+```
+npm run new:view
+```
