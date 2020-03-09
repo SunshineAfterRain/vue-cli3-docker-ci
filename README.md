@@ -1,29 +1,7 @@
-# vue-cli3
+# vue-cli3自动部署
 
-## Project setup
+## 在服务器用node启动webhooks.js 监听每次push 后就会执行deploy-dev.sh里面的命令 实现自动部署
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
+node webhooks.js
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
